@@ -1,0 +1,3 @@
+TestCaseNumber,TestCaseName,TestCaseType,UserName,Password,ExpectedResult
+"C891567,C891591",Verify successful user login with invalid credential,Negative,notvaliduser,Wish2022$,LoginPage
+C891566,Verify successful user login with valid credential,Positive,mike1@aklero.com,password,HomePage

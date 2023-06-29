@@ -1,0 +1,3 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,RolesFunctionality,ExpectedResult,RoleDescription,AvailableRole
+C891625,Add New role with valid role name and description,Positive,Create,Save new vendor successfully.,Created it for automation testing,Dashboard User
+C891626,Verify Edit existing role,Positive,Modify,Save new vendor successfully.,Created it for automation testing,Dashboard User

@@ -1,0 +1,2 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,PropertyKey,PropertyValue
+C896739,"Make sure iBridge show new config ""one.pass.de.workflow.process.ids"" on change config page ""Change Configuration Properties""",Positive,one.pass.de.workflow.process.ids,OnePassAutomatedDE;ManagedAutomatedIndexing1PassDE

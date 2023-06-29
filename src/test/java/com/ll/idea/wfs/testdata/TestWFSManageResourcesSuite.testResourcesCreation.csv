@@ -1,0 +1,4 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,ResourcesFunctionality,ExpectedResult,ResourceDescription,RemoveResourcePopUP
+C891594,Add New resource with valid details,Positive,Create,Save new vendor successfully.,Created it for automation testing,Do you want to delete this resource? Note: permissions relate to this resource are also removed.
+C891586,Verify Edit existing resources,Positive,Modify,Save new vendor successfully.,Created it for automation testing,Do you want to delete this resource? Note: permissions relate to this resource are also removed.
+C891662,Verify Remove functionality for existing resources,Positive,Delete,Save new vendor successfully.,Created it for automation testing,Do you want to delete this resource? Note: permissions relate to this resource are also removed.

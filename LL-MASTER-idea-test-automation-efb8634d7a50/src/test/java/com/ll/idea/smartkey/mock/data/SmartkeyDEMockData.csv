@@ -1,0 +1,62 @@
+DELable,DataType,Value
+Name1,String,Edward
+Name2,String,Davis
+Casefile ID or LP AUS Key,Number,1510549343
+Submission Date - or Date-Time Assessed,Date,1/1/2022
+Submission Number,Long,2012055764
+LTV,Double,80.5
+CLTV or TLTV,Double,95.23
+Housing Expense Ratio,Double,26.85
+Total Expense Ratio,Double,51.69
+Loan Amount,Long,264180
+Sales Price,Long,255000
+Appraised Value,Long,250000
+Interest Rate,Double,2.625
+Loan Type or Mortgage Type,String,VA
+Term,Number,360
+Amortization Type,String,FIXED
+Loan Purpose,String,PURCHASE
+Refi Purpose,String,PURCHASE
+Property Address 1,String,CROWN DRIVE
+Property Unit No,Number,9756
+City,String,HENRICO
+State,String,ALABAMA (AL)
+Property Zip,Number,23228
+Property Type,String,DETACHED
+FHA Upfront Mortgage Insurance Premium Factor,Number,10
+Effective Date,Date,5/12/2022
+Expiration Date,Date,5/12/2023
+Coverage Amount,Double,100000
+Deductible,Double,2500.25
+Lender,String,Freedom Mortgage Financial
+FHA Annual Premium Factor,Number,100
+Report ID Number1,String,P805S3
+Report ID Number2,String,P805S4
+Assets Totaling or Section G0 Amount,Double,5031.68
+FICOScore1Borrower1,Number,746
+FICOScore2Borrower1,Number,748
+FICOScore3Borrower1,Number,769
+FICOScore1Borrower2,Number,746
+FICOScore2Borrower2,Number,748
+FICOScore3Borrower2,Number,769
+Lien Type,String,FIRST MORTGAGE
+Buydown,String,N
+HCLTV or HTLTV,String,0(Zero)
+First P&I,Double,1061.08
+Payment,Double,2518.2
+Total Verified Assets,Double,5031.58
+All Other Payments - Total Monthly Debt,Double,1210.25
+FICOScore 1,Number,746
+FICOScore 2,Number,748
+Special Flood Hazard Area,String,Y
+Document Date,Date,5/12/2022
+Annual Adjustment,Long,26410
+First Name,String,Edward
+Last Name,String,Davis
+First Name 2,String,Andrew
+Last Name 2,String,Jackson
+First Name 3,String,William
+Last Name 3,String,kanen
+First Name 4,String,Peter
+Last Name 4,String,jones
+Insurance Company,String,State Farm

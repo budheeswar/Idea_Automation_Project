@@ -1,0 +1,3 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,VendorFunctionality,ExpectedResult,VendorDescription,VendorUser,ExpectedUpdatedMessage
+C891599,Create New vendor with valid vendor name and description,Positive,Create,Save new vendor successfully.,Created it for automation testing,DE1TestUser1@aklero.com,
+C891621,Verify Edit existing vendor,Positive,Modify,Save new vendor successfully.,Created it for automation testing,DE1TestUser1@aklero.com,Save changes successfully.

@@ -1,0 +1,4 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,UserName,Password,ExpectedResult,LoanBatchID
+C891683,Check LoanBatch Status using alphabets,Negative,joe@aklero.com,password,Please enter a valid loanBatchId!,LoanLogics
+C891684,Check LoanBatch Status using special characters,Negative,joe@aklero.com,password,Please enter a valid loanBatchId!,!#$@
+C891685,Check LoanBatch Status using null or empty search,Negative,joe@aklero.com,password,The loanBatchId# not found,

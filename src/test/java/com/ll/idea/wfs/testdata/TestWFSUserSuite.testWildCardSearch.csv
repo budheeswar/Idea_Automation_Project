@@ -1,0 +1,3 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,UserName,Password,VendorOption,RoleOption,UserPassword,ExpectedResult,SearchFilter,UserStatus,TypeOfSearch,SpecialCharacter,SearchExpectedResult,CRUDMode
+C891617,Search user with wildcard,Positive,joe@aklero.com,password,Aklero,Dashboard User,P@ssw0rd,Create user successfully.,AllFields,Deactive User,WildCard,&,No user found,NA
+C891616,Search user using special characters,Positive,joe@aklero.com,password,Aklero,Dashboard User,P@ssw0rd,Create user successfully.,AllFields,Deactive User,SpecialCharacter,&,No user found,NA

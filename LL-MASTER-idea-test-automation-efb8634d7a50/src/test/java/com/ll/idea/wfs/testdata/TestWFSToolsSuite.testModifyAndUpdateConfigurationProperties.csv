@@ -1,0 +1,4 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,PropertyKey,PropertyValue,OverrideFlag
+C891696,testChangeConfigurationPropertiesForAddingSkVersion,Positive,SupportedSKVersions,3.3.1.64,Append
+C891696,testChangeConfigurationPropertiesForHibernateLoggers,Positive,hibernate.loggers.affected,org.hibernate.replace,Replace
+C891696,testChangeConfigurationPropertiesForcritical.system.error,Positive,ignore.critical.system.error,true,Replace

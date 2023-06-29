@@ -1,0 +1,16 @@
+loan_batch_id,document_id,document_type_id,image_page_number,document_page_number,,Document_Name(XML based)
+6501254,1224150282,1182,0,0,,Hazard Insurance
+6501254,1224150283,216,1,0,,Hazard Invoice
+6501254,1224150284,2025,2,0,,Insurance Rating
+6501254,1224150284,2025,3,1,,Following Page
+6501254,1224150284,2025,4,2,,Following Page
+6501254,1224150284,2025,5,3,,Following Page
+6501254,1224150285,267,6,0,,Note
+6501254,1224150286,267,7,0,,Note
+6501254,1224150286,267,8,1,,Following Page
+6501254,1224150286,267,9,2,,Following Page
+6501254,1224150286,267,10,3,,Following Page
+6501254,1224150287,267,11,0,,Note
+6501254,1224150287,267,12,1,,Following Page
+6501254,1224150287,267,13,2,,Following Page
+6501254,1224150287,267,14,3,,Following Page

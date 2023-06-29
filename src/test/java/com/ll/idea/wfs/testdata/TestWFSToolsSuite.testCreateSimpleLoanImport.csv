@@ -1,0 +1,2 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,ClientName,ClientID,ProductID,ProductName,ManglerName,WorkflowName,Message,SuccessMessage,LoanStatus,LoanFileName,ExpectedAlertMessage
+"C891598,C891799,C891673,C891694,C891695",testCreateSimpleLoanImport,Positive,Aklero,2,15,Custom,Mangler1,OnePassAutomatedDE,Loan numbers highlighted in yellow appear to be not found in QClose. Are you sure you wish to proceed?,The following have bean commited to the IDEA workflow.,Unassigned,OnePassAutomatedDESample.pdf,Client is not available.

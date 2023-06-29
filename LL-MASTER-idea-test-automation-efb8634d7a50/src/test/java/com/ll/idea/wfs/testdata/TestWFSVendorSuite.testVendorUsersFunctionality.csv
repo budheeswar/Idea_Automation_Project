@@ -1,0 +1,2 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,VendorFunctionality,ExpectedResult,VendorDescription,VendorUser
+C891624,Verify Vendor's users functionality,Positive,Create,Save new vendor successfully.,Created it for automation testing,account1@aklero.com

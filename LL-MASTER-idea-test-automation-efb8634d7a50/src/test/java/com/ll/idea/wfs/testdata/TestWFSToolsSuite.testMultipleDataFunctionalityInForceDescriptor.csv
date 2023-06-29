@@ -1,0 +1,2 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,ClientName,ClientID,ProductID,ProductName,DocumentName,DiscriptorName1,DiscriptorName2,illegibleName,missingName,BadValue,NotApplicableName
+"C891700,C891699","Verify editing multiple data functionality in ""Force Descriptor to Review"" page",Positive,PennyMac,601,15,LQX-QC1,Note,Last Name,Last Name 4,TRUE,TRUE,TRUE,TRUE

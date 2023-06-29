@@ -1,0 +1,2 @@
+TestCaseNumber,TestCaseName,TypeOfScenario,ExpectedResult,UserToAssign
+C891601,Set Users to get Event Notifications,Positive,Mapping users to event successfully,joe@aklero.com
